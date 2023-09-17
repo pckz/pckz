@@ -26,8 +26,8 @@
 📧 [Email](mailto:pckz@pckz.cl)<br/>
 
 ## 🌐 Check Out My Company
-🇨🇱 [Pckz CL ES](pckz.cl)<br/>
-🇺🇸 [Pckz CL EN](pckz.cl/en)<br/>
+🇨🇱 [Pckz CL ES](https://dpckz.cl)<br/>
+🇺🇸 [Pckz CL EN](https://dpckz.cl/en)<br/>
 🌴 [Pckz USA EN](https://developmentmiami.com/)<br/>
 
 
