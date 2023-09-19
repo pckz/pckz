@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 👨‍💻 I'm currently an associate at **[Pckz](https://www.pckz.cl)**, a software development firm that I founded <br />
-⌚️ I manage teams and development daily <br />
+⌚️ I manage teams and development daily (since 2008) <br />
 👨‍👩‍👦‍👦 Managed teams of up to 30 people <br />
 🌐 Latest startup founded and currently running: [PRTAL](https://prtal.app) <br />
 📈 Best App created and developed: [Tomanji](https://tomanji.com), 300,000 MAU, celebrating its 10th anniversary <br />
