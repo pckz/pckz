@@ -1,7 +1,7 @@
 # Hello, I'm Pedro Ojeda 👋
 
 ## 🚀 About Me
-👨‍💻 I'm currently an associate at **Pckz**, a software development firm that I founded <br />
+👨‍💻 I'm currently an associate at **[Pckz](https://www.pckz.cl)**, a software development firm that I founded <br />
 ⌚️ I manage teams and development daily <br />
 👨‍👩‍👦‍👦 Managed teams of up to 30 people <br />
 🌐 Latest startup founded and running: [PRTAL](https://prtal.app) <br />
