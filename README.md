@@ -4,7 +4,7 @@
 👨‍💻 I'm currently an associate at **[Pckz](https://www.pckz.cl)**, a software development firm that I founded <br />
 ⌚️ I manage teams and development daily <br />
 👨‍👩‍👦‍👦 Managed teams of up to 30 people <br />
-🌐 Latest startup founded and running: [PRTAL](https://prtal.app) <br />
+🌐 Latest startup founded and currently running: [PRTAL](https://prtal.app) <br />
 📈 Best App created and developed: [Tomanji](https://tomanji.com), 300,000 MAU, celebrating its 10th anniversary <br />
 🛡️ Facebook White Hat Hacker - [Recognized in 2015 for identifying a critical security vulnerability](https://www.facebook.com/whitehat/thanks/) <br />
 
