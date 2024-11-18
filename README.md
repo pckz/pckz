@@ -1,7 +1,8 @@
 # Hello, I'm Pedro Ojeda 👋
 
 ## 🚀 About Me
-👨‍💻 I'm currently an associate at **[Pckz](https://www.pckz.cl)**, a software development firm that I founded <br />
+👨‍💻 I'm an associate at **[Pckz](https://www.pckz.cl)**, a software development firm that I founded <br />
+💻 Currently working with Jam Chat and AI Garden, focused on delivering unique, high-value solutions in the startup scene of LA, USA. <br />
 ⌚️ I manage teams and development daily (since 2008) <br />
 👨‍👩‍👦‍👦 Managed teams of up to 30 people <br />
 🌐 Latest startup founded and currently running: [PRTAL](https://prtal.app) <br />
